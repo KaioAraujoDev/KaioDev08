@@ -16,6 +16,6 @@ Desenvolvo aplicações web desde 2021, estou empenhado na minha evolução como
 
 ## Contato
 <ul>
-  <li><a href="https://www.linkedin.com/in/kaioaraujodev/">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/kaioaraujodev/" target="_blank">Linkedin</a></li>
   <li><a href="mailto:kaioaraujo6190@outlook.com" target="_blank">Email</a></li>
 </ul>
