@@ -1,6 +1,8 @@
 # Meu nome é Kaio araujo e desenvolvo aplicações front-end.
 
-Desenvolvo aplicações web desde 2021, estou empenhado na minha evolução como dev front-end. Desde então crio aplicações para meu desenvolvimento como dev , criando novos desafios e cada vez aprendendo mais.
+Desenvolvo aplicações web desde 2021, estou empenhado na minha evolução como dev front-end. 
+
+Desde então crio aplicações para meu desenvolvimento como dev , criando novos desafios e cada vez aprendendo mais.
 
 <div align="center">
   <a href="https://github.com/KaioDev08">
@@ -13,11 +15,12 @@ Desenvolvo aplicações web desde 2021, estou empenhado na minha evolução como
 ## Linguagens
 
 <section>
-  <img align="center"  height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
-  
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
 
 ## Contato
 <div>
