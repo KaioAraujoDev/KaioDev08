@@ -1,4 +1,5 @@
-# Meu nome é Kaio araujo e desenvolvo aplicações front-end.
+# Kaio araujo 
+# front-end.
 
 Desenvolvo aplicações web desde 2021, estou empenhado na minha evolução como dev front-end. 
 
